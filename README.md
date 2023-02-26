@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
  ### Links
-<!--
-- Solution URL: [Add solution URL here](https://your-solution-url.com)-->
+
+- [Solution](https://www.frontendmentor.io/solutions/qr-code-component-challenge-nOsT4yCmXM)
 - Live Site URL: [FE-Mentor-QR-Code](https://ffrancisco-rosa.github.io/FE-Mentor-QR-CODE/) 
 
 ## My process
@@ -37,16 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This project was done to complete the first challenge on the frontendmentor.io platform.
 Was good to recap how to center both vertically and horizontally a absolute positined element, since it is not a common occurence on the average web app development.
-
-Mentioned css snippet: 
-```css
-.qr-code-wrapper{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-```
 
 ## Author
 
